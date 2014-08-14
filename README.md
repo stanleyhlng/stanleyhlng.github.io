@@ -1,7 +1,7 @@
 stanleyhlng.github.io
 =====================
 
-<img align="right" height="260" src="https://raw.githubusercontent.com/stanleyhlng/stanleyhlng.github.io/master/assets/png/github-mark.png">
+<img align="right" height="118" src="https://raw.githubusercontent.com/stanleyhlng/stanleyhlng.github.io/master/assets/png/github-mark.png">
 
 A website hosted on github.io.
 
